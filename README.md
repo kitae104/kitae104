@@ -1,14 +1,7 @@
-### Hi there 👋
+### 저의 깃허브에 오신 것을 환영합니다.👋
 
-<!--
-**kitae104/kitae104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 인하공업전문대학 컴퓨터시스템과
-- 🌱 I’m currently learning 자바, 자바스크립트, 스프링, 알고리즘, 자료구조 등 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 메타버스, NFT 등
-- 💬 Ask me about 자바, 자바스크립트, 스프링, 알고리즘, 자료구조 등 
-- 📫 How to reach me: kkt@inhatc.ac.kr
-
+- 🔭 저는 현재 인하공업전문대학 컴퓨터시스템과에서 근무하고 있습니다.
+- 🌱 자바, 스프링, C#, 알고리즘, SW테스팅 등의 과목을 가르치고 있습니다. 
+- 🤔 최근에는 자바스크립트, 메타버스, NFT 등에 관심이 있습니다. 
+- 💬 제 유튜브 채널은 https://www.youtube.com/channel/UCQYCPj_PSE07OfFuAK_tk4A 입니다. 
+- 📫 저에게 연락을 하실때는 이메일: kkt@inhatc.ac.kr, 카톡 아이디 : aqua0405 입니다. 
